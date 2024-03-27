@@ -1,0 +1,268 @@
+.logo1  {
+
+   position: relative;
+   right: -10%;
+   bottom: 10px;
+}
+
+.webmail {
+      bottom: 170px;
+      position: relative;
+      left: 70%;
+      padding: 10px 20px 10px 20px;
+      border: 1px solid rgb(61, 202, 61);
+      border-radius: 5px;
+      display: inline-block;
+      transition: bottom 0.3s;
+      
+}
+
+.webmail:hover{
+
+   bottom: 180px;   
+
+}
+
+.webmail a{
+      text-decoration: none;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 19px;
+      color: rgb(61, 202, 61);
+      font-weight: bold;
+}
+
+.webmail a:hover {
+      position: relative; 
+
+}
+
+
+.escalas a {
+      text-decoration: none;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 19px;
+      color: rgb(61, 202, 61);
+      font-weight: bold;
+
+}
+
+.escalas:hover{
+      bottom: 180px;
+
+}
+
+
+.escalas {
+      position: relative;
+      left: 70%;
+      bottom: 170px;
+      border: 1px solid rgb(61, 202, 61);
+      display: inline-block;
+      padding: 10px 24px 10px 24px;
+      transition: bottom 0.3s;
+      border-radius: 5px;
+
+}
+
+body {
+
+	font-family:Arial;
+   margin: 0;
+   flex: 1;
+   padding: 0;
+}
+
+.banner {
+   float: right;
+   position: relative;
+   bottom: 120px; 
+   width: 100%;
+
+}
+
+header  {
+
+   top: 0;
+   left: 0;
+   width: 100%;
+   display:flex;
+   padding: 0;
+   background-color: white;
+   margin-top: 0;
+}
+
+.container {
+   width: 1000px;
+   bottom: -25px;
+   background-color: rgb(61, 202, 61);
+   padding: 0px 0px 0px 95px;
+   position: relative;
+   left: 18.9%;
+   clip-path: polygon(2% 30%, 100% 30%, 100% 20%, 100% 100%, 0% 100%)
+   
+}
+
+
+.lista  {
+   
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   position: relative;
+   right: 1%;
+   bottom: -80px;
+   display: flex;
+
+}
+   
+.lista li {
+
+   margin-right: 35px;
+   font-size: 18px;
+   font-weight: bold;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+
+}
+
+.lista a {
+
+   color: white;
+   text-decoration: none  ;
+   transition:linear 0.3s;
+
+}
+
+.lista a:hover {
+   border-bottom: 2px solid rgb(2, 83, 29);
+   padding-bottom: 10px;
+
+
+}
+
+.urbs {
+   display: inline-block;
+   position: relative;
+   left: 22%;
+      top: 75px;
+
+   }
+ 
+.texto {
+ position: absolute;
+  font-size: 50px;
+  color: white;
+  text-shadow: 0px 0px 5px black;
+  left: 560px;
+  bottom: 230px;
+  white-space: nowrap;
+}
+
+.confira {
+   position: absolute;
+    font-size: 50px;
+    color: white;
+    left: 590px;
+    bottom: 120px;
+    white-space: nowrap;
+    background-color: rgb(201, 48, 48);
+    padding: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 10px;
+  }
+
+
+  hr  {
+
+   position: relative;
+   top: 400px;
+   height: 1px;
+   background-color: black;
+   margin: 70px;
+   margin-bottom: 150px;
+   border-radius: 100px;
+
+  }
+
+  h1  {
+   position: relative;
+   left: 45%;
+   top: 200px;
+   font-weight: normal;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+
+  .uteis  {
+   position: relative;
+   left: 500px;
+   top: 200px;
+
+  }
+
+  .comeclogo {
+   margin-right: 5%;
+   margin-left: 5%;
+  }
+
+  footer {
+      margin-bottom: 0px;
+  }
+
+ .sorriso {
+      position: relative;
+      left: 15%;
+      bottom: -260px;
+ }
+
+ 
+ .certif {
+   position: relative;
+   bottom: -110px;
+   right: -30%;
+   font-size: 20px;
+ }
+
+ .certif img {
+      position: relative;
+      right: -1.8%;
+ }
+
+ .loca {
+      position: relative; 
+      bottom: 125px; 
+      left: 60%;
+      font-size: 23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }   
+ 
+ footer {
+   margin-top: -300px;
+ }
+
+ .direitos{
+      bottom: -200px;
+      position: relative;
+      background-color: rgb(209, 209, 209);
+      font-size: 1em;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ .INSTITUCIONAL2 {
+      position: relative;
+      left: 45%;
+      bottom: 12px;
+      list-style-type: none;
+      font-size: 23px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ .INSTITUCIONAL2 a {
+      text-decoration: none;
+      color: gray;
+
+ }
+
+
+
+ 
